@@ -1,0 +1,17 @@
+Meta 	File ID 	4
+Uploaded 	Sun, 8 Nov 2020 11:43:49 +0000
+File Info 	Name 	batatinhanoo.zip
+Size 	6.9 MB (7284093 bytes)
+Type 	Zip archive data, at least v2.0 to extract
+Mime 	application/zip
+Hashes 	MD5 	28f722cb7749120a5b34291be0dbd378
+SHA1 	421370491ba6fd93289c4977692a9909a8112a5a
+SHA256 	c8c5983d5b56ab9dd79560dbba28e87fade88f1fbe18281a75ec777e93aaab53
+SHA512 	19b7795dd9097c421296a6f37e8146a9c94e8220c9c310d2735a826bb574292c4ef0eda4128ed96fd64042f9fb6e867016e78beee01d275298dfb4708e74f238
+CRC32 	CFEB9559
+Ssdeep Fuzzy 	
+196608:BOpUEIRuWnpOCb95dK6NBP0ZB5ycteM0XM/vF:ByUu6bLdnN+ZB5QyvF
+Relations 	Parent 	
+Children 	
+External 	Cuckoo 	
+

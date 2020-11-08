@@ -1,0 +1,17 @@
+Meta 	File ID 	2
+Uploaded 	Sun, 8 Nov 2020 11:43:49 +0000
+File Info 	Name 	wp-content/plugins/rer-elemer/uba/DHLPARCELDELIVERY.zip
+Size 	544.8 KB (557906 bytes)
+Type 	Zip archive data, at least v2.0 to extract
+Mime 	application/zip
+Hashes 	MD5 	d2e3e992ca1563fc7e301d6e401ba513
+SHA1 	15822e2ff96ac324bbc9ca2bbe11595530b074f2
+SHA256 	f14e30997b321ee4dc547050405f98018877bb873ea1ac5400ad4993b5ebe34f
+SHA512 	a7d6029a2b6443572641bffb4aeb7d4a810bbac48ad055b2da7217e7d5021d25b2ccb6a5e0f46007b91612c66224de8dd8df79c33e72f6f4ea0d46424983ac42
+CRC32 	D1B632BA
+Ssdeep Fuzzy 	
+12288:vO4oUEiSTyeumuPjn3HxfcTFjmrShO70c/qWOB:vO4oLiSTzpuPD3Hx0VmWsQKq/
+Relations 	Parent 	
+Children 	
+External 	Cuckoo 	
+

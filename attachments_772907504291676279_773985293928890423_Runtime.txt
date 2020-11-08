@@ -1,0 +1,17 @@
+Meta 	File ID 	1
+Uploaded 	Sun, 8 Nov 2020 11:43:49 +0000
+File Info 	Name 	attachments/772907504291676279/773985293928890423/Runtime.exe
+Size 	14.5 KB (14848 bytes)
+Type 	PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
+Mime 	application/x-dosexec
+Hashes 	MD5 	ff5f3f329d995edc248fd3a5ee17ed37
+SHA1 	0fd254acdfe092a1ac7c40976663ec52169b665d
+SHA256 	5eb8cb8f817654a0566ef40984de3809bc5970ca67e5e0addf75c3528de359a9
+SHA512 	2d2dd3bc70aff319178b617621d3e34f686719f3c667141f93d1e79555550030c6b974fcf864c0d68857af4fb991050e489c3e0aa4b101ad0131b10e06374543
+CRC32 	F47D5849
+Ssdeep Fuzzy 	
+192:5akjBwjlPd7LA5nfoUIXmAGQ9ovPLXuOiEYtnoNt+5KCkYm9N/qciLliakNG:5acyRPepoPmAcu0t+51kF9ZqciLlihN
+Relations 	Parent 	
+Children 	
+External 	Cuckoo 	
+

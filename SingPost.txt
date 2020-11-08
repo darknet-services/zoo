@@ -1,0 +1,17 @@
+Meta 	File ID 	3
+Uploaded 	Sun, 8 Nov 2020 11:43:49 +0000
+File Info 	Name 	SingPost.apk
+Size 	2.9 MB (3075496 bytes)
+Type 	Zip archive data, at least v1.0 to extract
+Mime 	application/zip
+Hashes 	MD5 	0d941529a40e3eed95426ccc9660b738
+SHA1 	9f50db6bd47fddc52ae0b53e9ba0673ad3bb3301
+SHA256 	70db3f0cd0b8c3675ab1fe1a5309b64c0a489d62630f33dd7faddaf4e9a46e27
+SHA512 	ec6bd10eaf0f22858f741bb59dc461f1adf4b16d48b1bbe9c80cb84ab8f6afda2752600d94490c0516f5d78816c688472eb8e83f5963f9254fe9f835b7dc0a74
+CRC32 	87794E0A
+Ssdeep Fuzzy 	
+49152:tu7mWimpqBivQ2faRNn3+THEbcDLsLUUEfWY+N+7uf+B7UCYA5XNg57dNqFhL:tDWimpqB2Q2CRp3+AcPsAjfWY+NEzXNT
+Relations 	Parent 	
+Children 	
+External 	Cuckoo 	
+

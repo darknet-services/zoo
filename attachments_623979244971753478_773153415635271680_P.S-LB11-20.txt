@@ -1,0 +1,17 @@
+Meta 	File ID 	5
+Uploaded 	Sun, 8 Nov 2020 11:43:49 +0000
+File Info 	Name 	attachments/623979244971753478/773153415635271680/P.S-LB11-20.zip
+Size 	804.4 KB (823738 bytes)
+Type 	Zip archive data, at least v1.0 to extract
+Mime 	application/zip
+Hashes 	MD5 	d379f55c45969c115f0d92e4f9dae91d
+SHA1 	dfef67727235542fcb80487894dcba34212e3439
+SHA256 	bc7883bd8001ece5e727dcc61e0baa3f08506a088b91d9e7bfdcde1a23781a37
+SHA512 	9975086d4a925598ea6b0edba80e1e09279cbb50ef0bd9978a09bf0dfdabc8efb076e4a6e008d2a51f6e4f5bd940da93ec11ecc4e37a00a21803eebd8cb618e6
+CRC32 	8E0994F8
+Ssdeep Fuzzy 	
+24576:tAaL0RX+NFODxu9Tp6B6FDS7aNl757QYTe4:t9EXEODxuJp6B6F+WNlF7QYTe4
+Relations 	Parent 	
+Children 	
+External 	Cuckoo 	
+
